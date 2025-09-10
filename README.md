@@ -54,7 +54,7 @@ This poem project is a taste to writing java applications using JFrame. This is 
 
 <div align="center">
 
-&nbsp;	<img src="Images/Poem.jpg">
+&nbsp;	<img src="Images/Poem.png">
 
 </div>
 
