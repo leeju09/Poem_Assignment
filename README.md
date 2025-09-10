@@ -52,7 +52,7 @@ ________________
 
 <div align="center">
 
-&nbsp;	<img src="Poem_Assignment/JuliaLee_Poem/Images/Poem.png">
+&nbsp;	<img src="JuliaLee_Poem/Images/Poem.png">
 
 </div>
 
