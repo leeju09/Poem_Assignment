@@ -8,9 +8,9 @@ This poem project is a taste to writing java applications using JFrame. This is 
 
 
 
-\*\*\*\*\*\*\*\*\*\*\*\*
+__________________
 
-\## Required Skills:
+# Required Skills:
 
 
 
@@ -30,9 +30,9 @@ This poem project is a taste to writing java applications using JFrame. This is 
 
 
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+_____________
 
-\## Requirements:
+# Requirements:
 
 
 
@@ -45,22 +45,19 @@ This poem project is a taste to writing java applications using JFrame. This is 
 -You must change the color of the text at least 3 times in the poem.
 
 
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-\## Outcome
+________________
+# Outcome
 
 
 
 <div align="center">
 
-&nbsp;	<img src="Images/Poem.png">
+&nbsp;	<img src="JuliaLee_Poem/Images/Poem.png">
 
 </div>
 
 
-
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
+______________
 
 Resources that I used: In Class resources and examples on StackOverFlow
 
