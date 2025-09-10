@@ -1,6 +1,5 @@
 # Poem\_Assignment
 
-\*\*\*
 
 This poem project is a taste to writing java applications using JFrame. This is simply written program that will display a poem, an image, and change of color of text.
 
@@ -26,7 +25,6 @@ This poem project is a taste to writing java applications using JFrame. This is 
 
 
 
-\*\*\*
 
 \###Requirements:
 
@@ -42,7 +40,6 @@ This poem project is a taste to writing java applications using JFrame. This is 
 
 
 
-\*\*\*
 
 Resources that I used: In Class resources and examples on StackOverFlow
 
