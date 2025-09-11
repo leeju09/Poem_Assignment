@@ -1,8 +1,8 @@
-# Poem\_Assignment
+# Overview
 
 
 
-This poem project is a taste to writing java applications using JFrame. This is simply written program that will display a poem, an image, and change of color of text.
+This project gives you your first taste of writing Java applications using JFrame. You will write a simple program that will display a poem, an image, and change the colors of text. It should be a simple project and a good way to ease you into using Java.
 
 
 
