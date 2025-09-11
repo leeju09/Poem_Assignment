@@ -61,3 +61,8 @@ ______________
 
 Resources that I used: In Class resources and examples on StackOverFlow
 
+
+______________
+
+This is for Introduction to Java CSCI 1130-51 at North Hennepin Community College
+
